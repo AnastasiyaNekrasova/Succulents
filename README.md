@@ -13,10 +13,10 @@ The ***"Succulent Intelligence Guide"*** project is a web application developed 
 + **AI for Plant Identification:** Techable Machine
 
 ## Installation and Usage:
-Clone the repository to your local machine.
-Install dependencies for the frontend and backend.
-Start the frontend and backend servers.
-Open the application in your browser and begin using it.
+1. Clone the repository to your local machine.
+2. Install dependencies for the frontend and backend.
+3. Start the frontend and backend servers.
+4. Open the application in your browser and begin using it.
 
 ## Future Plans:
 Future versions are planned to expand the functionality of the application, add new features, improve the plant identification algorithm, and provide additional user interaction capabilities.
